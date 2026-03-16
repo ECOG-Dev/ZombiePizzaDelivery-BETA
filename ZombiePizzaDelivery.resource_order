@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings":[
+    {"name":"1.player","order":7,"path":"folders/1.player.yy",},
+    {"name":"2.enemies","order":10,"path":"folders/2.enemies.yy",},
+    {"name":"npcs","order":6,"path":"folders/npcs.yy",},
+    {"name":"tiles","order":9,"path":"folders/tiles.yy",},
+    {"name":"overworld","order":2,"path":"folders/tiles/overworld.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"Room2","order":3,"path":"rooms/Room2/Room2.yy",},
+    {"name":"scr_macros","order":2,"path":"scripts/scr_macros/scr_macros.yy",},
+    {"name":"spr_chefpizza","order":1,"path":"sprites/spr_chefpizza/spr_chefpizza.yy",},
+    {"name":"spr_coworker","order":2,"path":"sprites/spr_coworker/spr_coworker.yy",},
+    {"name":"spr_overworld","order":1,"path":"sprites/spr_overworld/spr_overworld.yy",},
+    {"name":"spr_playeridle","order":1,"path":"sprites/spr_playeridle/spr_playeridle.yy",},
+    {"name":"spr_playerrun","order":3,"path":"sprites/spr_playerrun/spr_playerrun.yy",},
+    {"name":"spr_playerwalk","order":2,"path":"sprites/spr_playerwalk/spr_playerwalk.yy",},
+    {"name":"spr_zombie2","order":1,"path":"sprites/spr_zombie2/spr_zombie2.yy",},
+    {"name":"spr_zombie3","order":2,"path":"sprites/spr_zombie3/spr_zombie3.yy",},
+    {"name":"Sprite37","order":8,"path":"sprites/Sprite37/Sprite37.yy",},
+    {"name":"Sprite6","order":4,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"Sprite7","order":5,"path":"sprites/Sprite7/Sprite7.yy",},
+  ],
+}
