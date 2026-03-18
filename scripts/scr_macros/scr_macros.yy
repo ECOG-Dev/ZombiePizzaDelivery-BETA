@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"scr_macros",
   "parent":{
-    "name":"ZombiePizzaDelivery",
-    "path":"ZombiePizzaDelivery.yyp",
+    "name":"1.player",
+    "path":"folders/1.player.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
