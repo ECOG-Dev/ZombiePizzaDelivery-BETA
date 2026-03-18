@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":7,
   "parent":{
-    "name":"npcs",
-    "path":"folders/npcs.yy",
+    "name":"3.npcs",
+    "path":"folders/3.npcs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

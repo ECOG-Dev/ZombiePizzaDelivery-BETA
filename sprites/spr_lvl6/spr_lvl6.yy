@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"WallSystem",
-    "path":"folders/Systems/WallSystem.yy",
+    "path":"folders/9.systems/WallSystem.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -6,8 +6,8 @@
   "name":"obj_bossman",
   "overriddenProperties":[],
   "parent":{
-    "name":"npcs",
-    "path":"folders/npcs.yy",
+    "name":"3.npcs",
+    "path":"folders/3.npcs.yy",
   },
   "parentObjectId":{
     "name":"par_depthobject",

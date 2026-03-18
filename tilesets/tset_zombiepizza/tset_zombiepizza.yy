@@ -13,7 +13,7 @@
   "out_tilevborder":2,
   "parent":{
     "name":"zombiepizza",
-    "path":"folders/tiles/zombiepizza.yy",
+    "path":"folders/8.tiles/zombiepizza.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",

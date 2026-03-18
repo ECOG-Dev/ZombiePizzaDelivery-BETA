@@ -26,7 +26,7 @@
   "origin":9,
   "parent":{
     "name":"4.objects",
-    "path":"folders/4.objects.yy",
+    "path":"folders/3.npcs/4.objects.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

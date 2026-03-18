@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall_lvl1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"par_wall",
+  "eventList":[],
   "managed":true,
-  "name":"obj_wall_lvl1",
+  "name":"par_wall",
   "overriddenProperties":[],
   "parent":{
     "name":"WallSystem",
     "path":"folders/9.systems/WallSystem.yy",
   },
-  "parentObjectId":{
-    "name":"par_wall",
-    "path":"objects/par_wall/par_wall.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_lvl1",
-    "path":"sprites/spr_lvl1/spr_lvl1.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":false,
 }
