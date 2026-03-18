@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"WallSystem",
-    "path":"folders/Systems/WallSystem.yy",
+    "path":"folders/9.systems/WallSystem.yy",
   },
   "parentObjectId":null,
   "persistent":false,

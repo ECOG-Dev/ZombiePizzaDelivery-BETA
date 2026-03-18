@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"overworld",
-    "path":"folders/tiles/overworld.yy",
+    "path":"folders/8.tiles/overworld.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

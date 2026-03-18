@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"zombiepizza",
-    "path":"folders/tiles/zombiepizza.yy",
+    "path":"folders/8.tiles/zombiepizza.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

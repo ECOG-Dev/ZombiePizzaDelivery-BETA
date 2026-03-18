@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Depth System",
-    "path":"folders/Systems/Depth System.yy",
+    "path":"folders/9.systems/Depth System.yy",
   },
   "parentObjectId":null,
   "persistent":false,
