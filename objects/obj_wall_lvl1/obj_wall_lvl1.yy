@@ -10,10 +10,13 @@
   "parent":{
     "name":"WallSystem",
     "path":"folders/9.systems/WallSystem.yy",
+<<<<<<< HEAD
   },
   "parentObjectId":{
     "name":"par_wall",
     "path":"objects/par_wall/par_wall.yy",
+=======
+>>>>>>> 8965e43b379420defd8513d4561b630c3fbce965
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

@@ -3,6 +3,7 @@
     {"name":"1.player","order":7,"path":"folders/1.player.yy",},
     {"name":"playerui","order":4,"path":"folders/1.player/playerui.yy",},
     {"name":"2.enemies","order":10,"path":"folders/2.enemies.yy",},
+<<<<<<< HEAD
     {"name":"3.npcs","order":6,"path":"folders/3.npcs.yy",},
     {"name":"4.objects","order":6,"path":"folders/3.npcs/4.objects.yy",},
     {"name":"8.tiles","order":9,"path":"folders/8.tiles.yy",},
@@ -11,6 +12,16 @@
     {"name":"9.systems","order":13,"path":"folders/9.systems.yy",},
     {"name":"Depth System","order":1,"path":"folders/9.systems/Depth System.yy",},
     {"name":"WallSystem","order":2,"path":"folders/9.systems/WallSystem.yy",},
+=======
+    {"name":"4.objects","order":6,"path":"folders/3.npcs/4.objects.yy",},
+    {"name":"3.npcs","order":6,"path":"folders/3.npcs.yy",},
+    {"name":"9.systems","order":13,"path":"folders/9.systems.yy",},
+    {"name":"Depth System","order":1,"path":"folders/9.systems/Depth System.yy",},
+    {"name":"WallSystem","order":2,"path":"folders/9.systems/WallSystem.yy",},
+    {"name":"8.tiles","order":9,"path":"folders/8.tiles.yy",},
+    {"name":"overworld","order":1,"path":"folders/8.tiles/overworld.yy",},
+    {"name":"zombiepizza","order":2,"path":"folders/8.tiles/zombiepizza.yy",},
+>>>>>>> 8965e43b379420defd8513d4561b630c3fbce965
   ],
   "ResourceOrderSettings":[
     {"name":"depthsorter","order":1,"path":"objects/depthsorter/depthsorter.yy",},
